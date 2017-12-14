@@ -1,5 +1,5 @@
 # messengerWithWifi
-Creating a messenger to chat over Internet and Wi-fi when Internet is turned down
+AR kit application, placing some models on surface.
 
 <h2>Описание идеи продукта</h2>
 
